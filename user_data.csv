@@ -1,4 +1,2 @@
-user_name,phone,email,address,city,zip
-John Doe,123456789,john@gmail.com,address1,city1,zip1,JOH846071
-Mr Smith,0987654321,smith@gmail.com,usa,texas,MR3459877
-
+user_name,phone,email,address,city,zip_code,membership_id
+Sarah,9800,sarah@gmail.com,31,ny,0976,RAB123456
